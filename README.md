@@ -2,13 +2,10 @@
 
 Script interactivo en Python para compartir cualquier software o puerto local a través de internet usando ngrok.
 
-## Ubicación
-El proyecto está creado en: `~/Dev/network-tunnel-ngrok`
-
 ## Instalación rápida de dependencias
 
 ```bash
-cd ~/Dev/network-tunnel-ngrok
+cd network-tunnel-ngrok
 pip install -r requirements.txt
 ```
 
